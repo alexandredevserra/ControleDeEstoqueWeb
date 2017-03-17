@@ -1,0 +1,9 @@
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\bin\Debug\netcoreapp1.1\ControleEstoque.Web.deps.json
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\bin\Debug\netcoreapp1.1\ControleEstoque.Web.runtimeconfig.json
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\bin\Debug\netcoreapp1.1\ControleEstoque.Web.runtimeconfig.dev.json
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\bin\Debug\netcoreapp1.1\ControleEstoque.Web.dll
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\bin\Debug\netcoreapp1.1\ControleEstoque.Web.pdb
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\netcoreapp1.1\ControleEstoque.Web.csprojResolveAssemblyReference.cache
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\netcoreapp1.1\ControleEstoque.Web.AssemblyInfo.cs
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\netcoreapp1.1\ControleEstoque.Web.dll
+c:\users\alexa\onedrive\documentos\visual studio 2017\Projects\ControleEstoque\ControleEstoque.Web\obj\Debug\netcoreapp1.1\ControleEstoque.Web.pdb
